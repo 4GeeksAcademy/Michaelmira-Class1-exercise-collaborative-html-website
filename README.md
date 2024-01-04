@@ -1,3 +1,10 @@
+1. Michael Mirisciotta Michaelmira navbar.html 
+2. Julie      yjlmotley                 portfolio.html
+3. NDavidGR                        contact.html
+4. Nick Sway   n1cksway              tagline.html
+5. Admasu     addmy01                   services.html
+6. J         jaemarlee                first-heading.html
+
 # Making a website as a team (Git collaboration)
 
 Practice your skills in Git while developing a typical website.
